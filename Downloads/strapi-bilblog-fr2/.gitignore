@@ -1,0 +1,9 @@
+node_modules
+.env
+.next
+.env.dev
+yarn*
+
+
+# Local Netlify folder
+.netlify
